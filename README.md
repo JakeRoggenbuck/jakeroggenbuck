@@ -1,6 +1,7 @@
 <div align="center">
    <img src="https://user-images.githubusercontent.com/35516367/152295130-8babd432-94e4-480b-89e3-dd12dfb7535f.png" alt="Jake Roggenbuck">
 </div>
+<br>
 
 Hello! My name is Jake Roggenbuck and I'm a student learning software development.
 
