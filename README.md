@@ -1,6 +1,6 @@
 # Jake Roggenbuck
 
-Hello! My name is Jake Roggenbuck and I'm a student learning software development.
+Hello! My name is Jake Roggenbuck and I'm a student learning Computer Science.
 
 - Currently working on a local ordering system called Local List [finditlocal.org](http://finditlocal.org) - [about page](http://finditlocal.org/about)
 - I am also doing coding tutoring [jr0.org/tutoring](https://jr0.org/tutoring)
