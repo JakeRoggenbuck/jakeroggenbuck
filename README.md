@@ -3,7 +3,6 @@
 Hello! My name is Jake Roggenbuck and I'm a student learning Computer Science.
 
 - Currently working on a local ordering system called Local List [finditlocal.org](http://finditlocal.org) - [about page](http://finditlocal.org/about)
-- I am also working on a few projects in Go right now [BestNextStep](https://github.com/JakeRoggenbuck/BestNextStep) & [study-cli](https://github.com/JakeRoggenbuck/study-cli)
 - View my monthly [Dev Logs](https://jr0.org/devlogs)
 - If you want to collaborate on a project, feel free to send me an email: `me@jr0.org`
 
