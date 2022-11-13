@@ -2,7 +2,7 @@
 
 Hello! My name is Jake Roggenbuck and I'm a student learning Computer Science.
 
-- Currently working on a local ordering system called Local List [finditlocal.org](http://finditlocal.org) - [about page](http://finditlocal.org/about)
+- Currently working on a local ordering system called Local List [TheLocalList.org](http://thelocallist.org) - [about page](http://thelocallist.org/about)
 - View my monthly [Dev Logs](https://jr0.org/devlogs)
 - If you want to collaborate on a project, feel free to send me an email: `me@jr0.org`
 
