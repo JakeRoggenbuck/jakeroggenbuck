@@ -10,6 +10,8 @@ Website:  [jr0.org](https://jr0.org)<br>
 LinkedIn: [Jake Roggenbuck](http://link.jr0.org/ln)<br>
 GPG Key: [309BBC](https://github.com/JakeRoggenbuck.gpg)<br>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/jakeroggenbuck?ext=heatmap)
+
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=rust&sort=stargazers)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=c&sort=stargazers)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=go&sort=stargazers)
