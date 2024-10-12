@@ -1,7 +1,7 @@
 # Jake Roggenbuck
 
 Hello! My name is Jake Roggenbuck and I'm a student learning Computer Science.<br/>
-My favorite languages are Rust, Go and C. I also frequently use C++ and Python.
+My favorite languages are :crab: Rust, Go and C. I also frequently use C++ and Python.
 
 - If you want to collaborate on a project, feel free to send me an email: `me@jr0.org`
 
