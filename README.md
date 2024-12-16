@@ -7,6 +7,7 @@ My favorite languages are :crab: Rust, Go and C. I also frequently use TypeScrip
 
 Website:  [jr0.org](https://jr0.org)<br>
 LinkedIn: [Jake Roggenbuck](https://www.linkedin.com/in/jakeroggenbuck)<br>
+Crates.io: [jakeroggenbuck](https://crates.io/users/jakeroggenbuck)<br>
 GPG Key: [309BBC](https://github.com/JakeRoggenbuck.gpg)<br>
 
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/jakeroggenbuck?ext=heatmap)](https://leetcode.com/u/jakeroggenbuck/) -->
