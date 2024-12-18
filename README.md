@@ -18,8 +18,10 @@ My favorite languages are **Rust** :crab:, **Go** and **C**. I also frequently u
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=python&sort=stargazers)
 [![Website SVG](https://nextjs-fastapi-starter-alpha-blue.vercel.app/api/py/website)](https://jr0.org)
 
+<!-- Maybe when I have more top projects I will include this
 **Top Project:**
 
 [![ACS](https://img.shields.io/badge/Auto%20Clock%20Speed-blue?style=for-the-badge)](https://github.com/JakeRoggenbuck/auto-clock-speed)
 [![Downloads](https://img.shields.io/crates/d/autoclockspeed?style=for-the-badge)](https://crates.io/crates/autoclockspeed)
 [![GitHub Repo stars](https://img.shields.io/github/stars/jakeroggenbuck/auto-clock-speed?style=for-the-badge)](https://github.com/JakeRoggenbuck/auto-clock-speed)
+-->
