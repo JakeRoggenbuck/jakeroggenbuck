@@ -18,9 +18,9 @@ My favorite languages are **Rust** :crab:, **Go** and **C**. I also frequently u
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=python&sort=stargazers)
 
 [![Stars](https://img.shields.io/github/stars/jakeroggenbuck?style=for-the-badge)](https://github.com/JakeRoggenbuck)
-[![Website SVG](https://nextjs-fastapi-starter-alpha-blue.vercel.app/api/py/website)](https://jr0.org) <!-- Custom color changing badge! -->
 [![Leetcode](https://img.shields.io/badge/leetcode-orange?style=for-the-badge)](https://leetcode.com/u/jakeroggenbuck/)
 [![Crates.io](https://img.shields.io/crates/udt/126889?style=for-the-badge)](https://crates.io/users/jakeroggenbuck)
+[![Website SVG](https://nextjs-fastapi-starter-alpha-blue.vercel.app/api/py/website)](https://jr0.org) <!-- Custom color changing badge! -->
 
 ### Open Source 💻
 I've contributed to the following open source projecrs:<br>
@@ -32,7 +32,7 @@ I've contributed to the following open source projecrs:<br>
 [**fastly/fastly-py**](https://github.com/fastly/fastly-py),
 [**pathwaycom/pathway**](https://github.com/pathwaycom/pathway),
 [**argosopentech/argos-translate**](https://github.com/argosopentech/argos-translate),
-[**python-mechanize/mechanize**](https://github.com/python-mechanize/mechanize), and [**more**](https://github.com/JakeRoggenbuck?tab=repositories)
+[**python-mechanize/mechanize**](https://github.com/python-mechanize/mechanize), and [**more**](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=&sort=stargazers)
 
 <details>
 <summary>I also created a fork of OpenAI's gpt-2 at https://github.com/jakeroggenbuck/gpt-2 in 2019 but didn't push any changes.
