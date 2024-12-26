@@ -34,6 +34,12 @@ I've contributed to the following open source projecrs:<br>
 [**argosopentech/argos-translate**](https://github.com/argosopentech/argos-translate)
 [**python-mechanize/mechanize**](https://github.com/python-mechanize/mechanize)
 
+<details>
+<summary>I also created a fork of OpenAI's gpt-2 at https://github.com/jakeroggenbuck/gpt-2 in 2019 but didn't push any changes.
+</summary>
+- I still cannot believe how implactful this one project has been on the world as a whole and on software engineering especially<br>
+- You can verify the creation date with the GitHub api at https://api.github.com/repos/jakeroggenbuck/gpt-2 and look for the `created_at` field
+</details>
 
 <!-- Maybe when I have more top projects I will include this
 **Top Project:**
