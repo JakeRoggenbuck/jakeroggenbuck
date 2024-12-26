@@ -17,7 +17,7 @@ My favorite languages are **Rust** :crab:, **Go** and **C**. I also frequently u
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=c%2B%2B&sort=stargazers)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=python&sort=stargazers)
 
-[![Stars](https://img.shields.io/github/stars/jakeroggenbuck?style=for-the-badge)](https://github.com/JakeRoggenbuck/jakeroggenbuck)
+[![Stars](https://img.shields.io/github/stars/jakeroggenbuck?style=for-the-badge)](https://github.com/JakeRoggenbuck)
 [![Website SVG](https://nextjs-fastapi-starter-alpha-blue.vercel.app/api/py/website)](https://jr0.org) <!-- Custom color changing badge! -->
 [![Leetcode](https://img.shields.io/badge/leetcode-orange?style=for-the-badge)](https://leetcode.com/u/jakeroggenbuck/)
 [![Crates.io](https://img.shields.io/crates/udt/126889?style=for-the-badge)](https://crates.io/users/jakeroggenbuck)
