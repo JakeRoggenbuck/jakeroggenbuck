@@ -20,6 +20,7 @@ My favorite languages are **Rust** :crab:, **Go** and **C**. I also frequently u
 ![Stars](https://img.shields.io/github/stars/jakeroggenbuck?style=for-the-badge)
 [![Website SVG](https://nextjs-fastapi-starter-alpha-blue.vercel.app/api/py/website)](https://jr0.org) <!-- Custom color changing badge! -->
 [![Leetcode](https://img.shields.io/badge/leetcode-orange?style=for-the-badge)](https://leetcode.com/u/jakeroggenbuck/)
+[![Crates.io](https://img.shields.io/crates/udt/126889?style=for-the-badge)](https://crates.io/users/jakeroggenbuck)
 
 <!-- Maybe when I have more top projects I will include this
 **Top Project:**
