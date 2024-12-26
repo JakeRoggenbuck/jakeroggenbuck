@@ -31,7 +31,7 @@ I've contributed to the following open source projecrs:<br>
 [**grafana/pyroscope**](https://github.com/grafana/pyroscope),
 [**fastly/fastly-py**](https://github.com/fastly/fastly-py),
 [**pathwaycom/pathway**](https://github.com/pathwaycom/pathway),
-[**argosopentech/argos-translate**](https://github.com/argosopentech/argos-translate)
+[**argosopentech/argos-translate**](https://github.com/argosopentech/argos-translate),
 [**python-mechanize/mechanize**](https://github.com/python-mechanize/mechanize)
 
 <details>
