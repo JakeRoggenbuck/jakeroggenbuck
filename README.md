@@ -32,7 +32,7 @@ I've contributed to the following open source projecrs:<br>
 [**fastly/fastly-py**](https://github.com/fastly/fastly-py),
 [**pathwaycom/pathway**](https://github.com/pathwaycom/pathway),
 [**argosopentech/argos-translate**](https://github.com/argosopentech/argos-translate),
-[**python-mechanize/mechanize**](https://github.com/python-mechanize/mechanize), and [more](https://github.com/JakeRoggenbuck?tab=repositories)
+[**python-mechanize/mechanize**](https://github.com/python-mechanize/mechanize), and [**more**](https://github.com/JakeRoggenbuck?tab=repositories)
 
 <details>
 <summary>I also created a fork of OpenAI's gpt-2 at https://github.com/jakeroggenbuck/gpt-2 in 2019 but didn't push any changes.
