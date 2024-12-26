@@ -22,8 +22,9 @@ My favorite languages are **Rust** :crab:, **Go** and **C**. I also frequently u
 [![Leetcode](https://img.shields.io/badge/leetcode-orange?style=for-the-badge)](https://leetcode.com/u/jakeroggenbuck/)
 [![Crates.io](https://img.shields.io/crates/udt/126889?style=for-the-badge)](https://crates.io/users/jakeroggenbuck)
 
-### Open Source
+### Open Source 💻
 I've contributed to the following open source projecrs:<br>
+
 [**YC's pretzelai/pretzelai**](https://github.com/pretzelai/pretzelai),
 [**rocky-linux/rocky**](https://github.com/rocky-linux/rocky), 
 [**rust-lang/miri**](https://github.com/rust-lang/miri/commit/6fee850a46872b39a92df4a1deb0c5a60cd60dc1), <!-- the changes to squash merged so they don't appear as a seperate commit -->
