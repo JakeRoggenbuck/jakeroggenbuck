@@ -10,7 +10,7 @@ My favorite languages are **Rust** :crab:, **Go** and **C**. I also frequently u
 
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/jakeroggenbuck?ext=heatmap)](https://leetcode.com/u/jakeroggenbuck/) -->
 
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=rust&sort=stargazers)
+[![Rust](https://img.shields.io/badge/Rust-1A5D8A?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=rust&sort=stargazers)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=typescript)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=go&sort=stargazers)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=c&sort=stargazers)
