@@ -8,7 +8,11 @@ My favorite languages are **Rust** :crab:, **Go** and **C**. I also frequently u
 📦 **Crates.io:** [**jakeroggenbuck**](https://crates.io/users/jakeroggenbuck)<br>
 🔑 **GPG Key:** [**309BBC**](https://github.com/JakeRoggenbuck.gpg)<br>
 
-<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/jakeroggenbuck?ext=heatmap)](https://leetcode.com/u/jakeroggenbuck/) -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JakeRoggenbuck?theme=catppuccinMocha&font=Roboto%20Mono)](https://leetcode.com/u/jakeroggenbuck/)
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=jakeroggenbuck&count_private=true&theme=nord)](#)
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jakeroggenbuck&hide_border=true&theme=nord)](#)
 
 [![Rust](https://img.shields.io/badge/Rust-1A5D8A?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=rust&sort=stargazers)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=typescript)
