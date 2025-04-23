@@ -1,6 +1,7 @@
 # Jake Roggenbuck
 
-Hello! 👋 My name is Jake Roggenbuck and I'm a student learning Computer Science.<br/>
+Hello! 👋 My name is Jake Roggenbuck and I'm studying Computer Science.<br/>
+Currently doing research in the intersection of programming languages and security.<br/>
 My favorite languages are **Rust** :crab:, **Go** and **C**. I also frequently use **TypeScript**, **C++** and **Python**.
 
 🌐 **Website:**  [**jr0.org**](https://jr0.org)<br>
