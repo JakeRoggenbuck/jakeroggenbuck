@@ -31,6 +31,7 @@ My favorite languages are **Rust** :crab:, **Go** and **C**. I also frequently u
 ### Open Source 💻
 I've contributed to the following open source projecrs:<br>
 
+[**YC's onlook-dev/onlook**](https://github.com/onlook-dev/onlook),
 [**YC's pretzelai/pretzelai**](https://github.com/pretzelai/pretzelai),
 [**rocky-linux/rocky**](https://github.com/rocky-linux/rocky), 
 [**rust-lang/miri**](https://github.com/rust-lang/miri/commit/6fee850a46872b39a92df4a1deb0c5a60cd60dc1), <!-- the changes to squash merged so they don't appear as a seperate commit -->
