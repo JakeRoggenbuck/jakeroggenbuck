@@ -34,6 +34,7 @@ I've contributed to the following open source projecrs:<br>
 
 [**YC's onlook-dev/onlook**](https://github.com/onlook-dev/onlook),
 [**YC's pretzelai/pretzelai**](https://github.com/pretzelai/pretzelai),
+[**microsoft/RD-Agent**](https://github.com/microsoft/RD-Agent),
 [**rocky-linux/rocky**](https://github.com/rocky-linux/rocky), 
 [**rust-lang/miri**](https://github.com/rust-lang/miri/commit/6fee850a46872b39a92df4a1deb0c5a60cd60dc1), <!-- the changes to squash merged so they don't appear as a seperate commit -->
 [**grafana/pyroscope**](https://github.com/grafana/pyroscope),
