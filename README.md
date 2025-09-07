@@ -1,13 +1,8 @@
 # Jake Roggenbuck
 
-Hello! 👋 My name is Jake Roggenbuck and I'm studying Computer Science.<br/>
-Currently doing research in the intersection of programming languages and security.<br/>
-My favorite languages are **Rust** :crab:, **Go** and **C**. I also frequently use **TypeScript**, **C++** and **Python**.
+Hello! 👋 I'm Jake Roggenbuck and I'm studying CS @ UC Davis. Currently doing research in [programming languages](https://en.wikipedia.org/wiki/Programming_language_theory) and security. My favorite languages are **Rust** :crab:, **Go** and **C**. I also frequently use **TypeScript**, **C++** and **Python**. I'm interested in Database systems, infrastructure, AI research, and optimization.
 
-🌐 **Website:**  [**jr0.org**](https://jr0.org)<br>
-🇱 **LinkedIn:** [**Jake Roggenbuck**](https://www.linkedin.com/in/jakeroggenbuck)<br>
-📦 **Crates.io:** [**jakeroggenbuck**](https://crates.io/users/jakeroggenbuck)<br>
-🔑 **GPG Key:** [**309BBC**](https://github.com/JakeRoggenbuck.gpg)<br>
+🌐 **Website:**  [**jr0.org**](https://jr0.org) --- 🇱 **LinkedIn:** [**Jake Roggenbuck**](https://www.linkedin.com/in/jakeroggenbuck) --- 📦 **Crates.io:** [**JakeRoggenbuck**](https://crates.io/users/JakeRoggenbuck)
 
 <!--
 [![LeetCode Stats](https://leetcard.jacoblin.cool/JakeRoggenbuck?theme=catppuccinMocha&font=Roboto%20Mono)](https://leetcode.com/u/jakeroggenbuck/)
@@ -29,8 +24,7 @@ My favorite languages are **Rust** :crab:, **Go** and **C**. I also frequently u
 [![Crates.io](https://img.shields.io/crates/udt/126889?style=for-the-badge)](https://crates.io/users/jakeroggenbuck)
 [![Website SVG](https://nextjs-fastapi-starter-alpha-blue.vercel.app/api/py/website)](https://jr0.org) <!-- Custom color changing badge! -->
 
-### Open Source 💻
-I've contributed to the following open source projecrs:<br>
+### Open Source 💻 - I've contributed to the following open source projecrs:<br>
 
 [**onlook-dev/onlook (YC W25)**](https://github.com/onlook-dev/onlook),
 [**pretzelai/pretzelai (YC W24)**](https://github.com/pretzelai/pretzelai),
@@ -43,12 +37,20 @@ I've contributed to the following open source projecrs:<br>
 [**argosopentech/argos-translate**](https://github.com/argosopentech/argos-translate),
 [**python-mechanize/mechanize**](https://github.com/python-mechanize/mechanize), and [**more**](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=&sort=stargazers)
 
+### Recent Posts:
+
+- Post on Hacker News: [Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript](https://news.ycombinator.com/item?id=45034957).
+- Optimization blog post [Optimizing Course Search by over 8x](https://jr0.org/posts/optimizing-course-api/).
+- Security research blog post [Backend SQL Injection Research](https://jr0.org/posts/backend-sql-report/).
+
 <details>
-<summary>I also created a fork of OpenAI's gpt-2 at https://github.com/jakeroggenbuck/gpt-2 in 2019 but didn't push any changes.
+<summary>I created a fork of OpenAI's gpt-2 at https://github.com/jakeroggenbuck/gpt-2 in 2019 but didn't push any changes.
 </summary>
 - I still cannot believe how implactful this one project has been on the world as a whole and on software engineering especially<br>
 - You can verify the creation date with GitHub's api at https://api.github.com/repos/jakeroggenbuck/gpt-2 and look at the `created_at` field
 </details>
+
+🔑 **GPG Key:** [**309BBC**](https://github.com/JakeRoggenbuck.gpg) --- 🐍 **PyPi.org:** [JakeRoggenbuck](pypi.org/user/JakeRoggenbuck) --- 💻 **Leetcode:** [JakeRoggenbuck](https://leetcode.com/u/JakeRoggenbuck) --- 🟠 **Hacker News:** [Roggenbuck](https://news.ycombinator.com/user?id=Roggenbuck)
 
 <!-- Maybe when I have more top projects I will include this
 **Top Project:**
