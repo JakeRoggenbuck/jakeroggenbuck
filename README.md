@@ -24,7 +24,7 @@ Hello! 👋 I'm Jake Roggenbuck and I'm studying CS @ UC Davis. Currently doing 
 [![Crates.io](https://img.shields.io/crates/udt/126889?style=for-the-badge)](https://crates.io/users/jakeroggenbuck)
 [![Website SVG](https://nextjs-fastapi-starter-alpha-blue.vercel.app/api/py/website)](https://jr0.org) <!-- Custom color changing badge! -->
 
-### Open Source 💻 - I've contributed to the following open source projecrs:<br>
+### Open Source 💻 - I've contributed to the following open source projects:<br>
 
 [**onlook-dev/onlook (YC W25)**](https://github.com/onlook-dev/onlook),
 [**pretzelai/pretzelai (YC W24)**](https://github.com/pretzelai/pretzelai),
