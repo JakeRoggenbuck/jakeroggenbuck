@@ -59,3 +59,32 @@ Hello! 👋 I'm Jake Roggenbuck and I'm studying CS @ UC Davis. Currently doing 
 [![Downloads](https://img.shields.io/crates/d/autoclockspeed?style=for-the-badge)](https://crates.io/crates/autoclockspeed)
 [![GitHub Repo stars](https://img.shields.io/github/stars/jakeroggenbuck/auto-clock-speed?style=for-the-badge)](https://github.com/JakeRoggenbuck/auto-clock-speed)
 -->
+
+
+<details>
+<summary>Packages that I maintain on Crates.io and Pypi.org have accumulated over 170k downloads.</summary>
+
+# Python (PyPI - All-Time Downloads via PePy)
+
+| Package             | Badges                                                                                                                                                                                                                                                                                     |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **kronicler**       | [![PyPI Version](https://img.shields.io/pypi/v/kronicler?style=for-the-badge)](https://pypi.org/project/kronicler/) [![PyPI Downloads](https://img.shields.io/pepy/dt/kronicler?style=for-the-badge\&label=PyPI%20Downloads)](https://pepy.tech/project/kronicler)                         |
+| **plrs**            | [![PyPI Version](https://img.shields.io/pypi/v/plrs?style=for-the-badge)](https://pypi.org/project/plrs/) [![PyPI Downloads](https://img.shields.io/pepy/dt/plrs?style=for-the-badge\&label=PyPI%20Downloads)](https://pepy.tech/project/plrs)                                             |
+| **jakesutils**      | [![PyPI Version](https://img.shields.io/pypi/v/jakesutils?style=for-the-badge)](https://pypi.org/project/jakesutils/) [![PyPI Downloads](https://img.shields.io/pepy/dt/jakesutils?style=for-the-badge\&label=PyPI%20Downloads)](https://pepy.tech/project/jakesutils)                     |
+| **mongoc**          | [![PyPI Version](https://img.shields.io/pypi/v/mongoc?style=for-the-badge)](https://pypi.org/project/mongoc/) [![PyPI Downloads](https://img.shields.io/pepy/dt/mongoc?style=for-the-badge\&label=PyPI%20Downloads)](https://pepy.tech/project/mongoc)                                     |
+| **mongofastlogger** | [![PyPI Version](https://img.shields.io/pypi/v/mongofastlogger?style=for-the-badge)](https://pypi.org/project/mongofastlogger/) [![PyPI Downloads](https://img.shields.io/pepy/dt/mongofastlogger?style=for-the-badge\&label=PyPI%20Downloads)](https://pepy.tech/project/mongofastlogger) |
+| **importlint**      | [![PyPI Version](https://img.shields.io/pypi/v/importlint?style=for-the-badge)](https://pypi.org/project/importlint/) [![PyPI Downloads](https://img.shields.io/pepy/dt/importlint?style=for-the-badge\&label=PyPI%20Downloads)](https://pepy.tech/project/importlint)                     |
+| **yaml-serialize**  | [![PyPI Version](https://img.shields.io/pypi/v/yaml-serialize?style=for-the-badge)](https://pypi.org/project/yaml-serialize/) [![PyPI Downloads](https://img.shields.io/pepy/dt/yaml-serialize?style=for-the-badge\&label=PyPI%20Downloads)](https://pepy.tech/project/yaml-serialize)     |
+| **typeschemalib**   | [![PyPI Version](https://img.shields.io/pypi/v/typeschemalib?style=for-the-badge)](https://pypi.org/project/typeschemalib/) [![PyPI Downloads](https://img.shields.io/pepy/dt/typeschemalib?style=for-the-badge\&label=PyPI%20Downloads)](https://pepy.tech/project/typeschemalib)         |
+
+# Rust (crates.io - Total Downloads)
+
+| Crate                    | Badges                                                                                                                                                                                                                                                                                            |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **autoclockspeed**       | [![Crates.io Version](https://img.shields.io/crates/v/autoclockspeed?style=for-the-badge)](https://crates.io/crates/autoclockspeed) [![Crates.io Downloads](https://img.shields.io/crates/d/autoclockspeed?style=for-the-badge)](https://crates.io/crates/autoclockspeed)                         |
+| **efcl**                 | [![Crates.io Version](https://img.shields.io/crates/v/efcl?style=for-the-badge)](https://crates.io/crates/efcl) [![Crates.io Downloads](https://img.shields.io/crates/d/efcl?style=for-the-badge)](https://crates.io/crates/efcl)                                                                 |
+| **kronicler**            | [![Crates.io Version](https://img.shields.io/crates/v/kronicler?style=for-the-badge)](https://crates.io/crates/kronicler) [![Crates.io Downloads](https://img.shields.io/crates/d/kronicler?style=for-the-badge)](https://crates.io/crates/kronicler)                                             |
+| **plrs**                 | [![Crates.io Version](https://img.shields.io/crates/v/plrs?style=for-the-badge)](https://crates.io/crates/plrs) [![Crates.io Downloads](https://img.shields.io/crates/d/plrs?style=for-the-badge)](https://crates.io/crates/plrs)                                                                 |
+| **statistical-tests-rs** | [![Crates.io Version](https://img.shields.io/crates/v/statistical-tests-rs?style=for-the-badge)](https://crates.io/crates/statistical-tests-rs) [![Crates.io Downloads](https://img.shields.io/crates/d/statistical-tests-rs?style=for-the-badge)](https://crates.io/crates/statistical-tests-rs) |
+| **stow-squid**           | [![Crates.io Version](https://img.shields.io/crates/v/stow-squid?style=for-the-badge)](https://crates.io/crates/stow-squid) [![Crates.io Downloads](https://img.shields.io/crates/d/stow-squid?style=for-the-badge)](https://crates.io/crates/stow-squid)                                         |
+</details>
