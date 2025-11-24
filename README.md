@@ -64,7 +64,9 @@ Hello! 👋 I'm Jake Roggenbuck and I'm studying CS @ UC Davis. Currently doing 
 <details>
 <summary>Packages that I maintain on Crates.io and Pypi.org have accumulated over <b>170k downloads</b> combined.</summary>
 
-# Python (PyPI - All-Time Downloads via PePy)
+# Python (PyPI - All-Time Downloads)
+
+<!-- This uses the Pepy API to get the downloads -->
 
 | Package             | Badges                                                                                                                                                                                                                                                                                     |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
