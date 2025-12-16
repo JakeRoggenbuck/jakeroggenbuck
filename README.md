@@ -44,7 +44,7 @@ Hello! 👋 I'm Jake Roggenbuck and I'm studying CS @ UC Davis. Currently doing 
 - Security research blog post [Backend SQL Injection Research](https://jr0.org/posts/backend-sql-report/).
 
 <details>
-<summary>I created a fork of OpenAI's gpt-2 at https://github.com/jakeroggenbuck/gpt-2 in 2019 but didn't push any changes.
+<summary>I created a fork of OpenAI's gpt-2 at https://github.com/jakeroggenbuck/gpt-2 in 2019 and ran it locally.
 </summary>
 - I still cannot believe how implactful this one project has been on the world as a whole and on software engineering especially<br>
 - You can verify the creation date with GitHub's api at https://api.github.com/repos/jakeroggenbuck/gpt-2 and look at the `created_at` field
