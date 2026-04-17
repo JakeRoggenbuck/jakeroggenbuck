@@ -24,9 +24,11 @@ Hello! 👋 I'm Jake Roggenbuck and I'm studying CS @ UC Davis. Currently doing 
 [![Stars](https://img.shields.io/github/stars/jakeroggenbuck?style=for-the-badge)](https://github.com/JakeRoggenbuck)
 [![Leetcode](https://img.shields.io/badge/leetcode-orange?style=for-the-badge)](https://leetcode.com/u/jakeroggenbuck/) <!-- [![Crates.io](https://img.shields.io/crates/udt/126889?style=for-the-badge)](https://crates.io/users/jakeroggenbuck)-->
 [![Website SVG](https://nextjs-fastapi-starter-alpha-blue.vercel.app/api/py/website)](https://jr0.org) <!-- Custom color changing badge! -->
+<!--
 [<img width="80" height="28" alt="Sunain - Logo Badges 80 x 28" src="https://github.com/user-attachments/assets/f9c27022-036d-4d37-b964-6edb8b6ed6dc" />](https://www.southparkcommons.com/companies/sunain)
 [<img width="80" height="28" alt="Capital One - Logo Badges 80 x 28" src="https://github.com/user-attachments/assets/181918cd-03f3-4f57-9f33-557e6648a37e" />](https://www.capitalone.com/)
 [<img width="80" height="28" alt="Lucid - Logo Badges 80 x 28" src="https://github.com/user-attachments/assets/bb5fb583-b380-4562-a032-4f5af9b5923c" />](https://www.lucidautomationsecurity.com/)
+-->
 
 ### Open Source 💻 - I've contributed to the following open source projects:<br>
 
