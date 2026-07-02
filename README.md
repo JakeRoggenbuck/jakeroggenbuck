@@ -2,7 +2,7 @@
 
 Hello! 👋 I'm Jake Roggenbuck and I'm studying CS @ UC Davis. Currently doing research in [programming languages](https://jr0.org/pl) and security. My favorite languages are **Rust** :crab:, **Go** and **C**. I also frequently use **TypeScript**, **C++** and **Python**. I'm interested in Database systems, infrastructure, AI research, and optimization.
 
- Prev SWE Intern @ [Capital One](https://www.capitalone.com/), [Sunain](https://www.southparkcommons.com/companies/sunain), [Lucid Automation](https://www.lucidautomationsecurity.com/)
+Full Stack SWE @ [Sunday Robotics](https://sunday.ai) --- Prev SWE Intern @ [Capital One](https://www.capitalone.com/), [Sunain](https://www.southparkcommons.com/companies/sunain), [Lucid Automation](https://www.lucidautomationsecurity.com/)
 
 🌐 **Website:**  [**jr0.org**](https://jr0.org) --- 🇱 **LinkedIn:** [**Jake Roggenbuck**](https://www.linkedin.com/in/jakeroggenbuck) --- 📦 **Crates.io:** [**JakeRoggenbuck**](https://crates.io/users/JakeRoggenbuck)
 
